@@ -381,13 +381,6 @@ const HomePage = () => {
             </p>
           </li>
           <Separator />
-          <li className="space-y-4">
-            <strong>Share your thoughts 💬 </strong>
-            <SocialMediaLinks />
-            <br />
-            <br />
-            <br />
-          </li>
         </ul>
       </div>
     );
